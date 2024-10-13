@@ -1,1 +1,2 @@
-# Project
+# CODSOFT Project
+I created a basic calculator using CSS, HTML, and JavaScript, and implement an interactive interface with buttons for addition, subtraction, multiplication, and division operations. The calculator display show user input and results. Using event listeners, if-else statements, operators to handle user input and perform calculations. This project done with basic knowledge of these technologies....
